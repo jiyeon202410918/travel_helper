@@ -8,10 +8,6 @@
 - 기온에 따라 옷차림 텍스트 + 랜덤 이미지 추천
 - 데이터 구조 분리 및 깔끔한 코드 설계
 
-##폴더 구조
-
-happy/ ├─ main.py # GUI 실행 및 전체 흐름 ├─ data.py # 지역 & 놀거리 데이터 ├─ weather.py # 날씨 API 요청 함수 ├─ outfit.py # 코디 추천 + 이미지 랜덤 선택 ├─ images/ # 기온대별 코디 이미지 └─ korea_map_dummy.png # 배경 지도 이미지
-
 ## 사용법
 
 1. `main.py` 실행
